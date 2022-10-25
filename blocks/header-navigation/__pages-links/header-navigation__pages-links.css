@@ -1,0 +1,8 @@
+.header-navigation__pages-links {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 550px;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,11 @@
+.communication__media-links {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 162px;
+    margin: 0 auto;
+    padding-bottom: 42px;
+}

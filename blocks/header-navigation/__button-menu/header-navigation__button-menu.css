@@ -1,0 +1,7 @@
+.header-navigation__button-menu {
+    background: url(../../../images/burger\ menu.png)center no-repeat;
+    width: 56px;
+    height: 56px;
+    border: none;
+    padding: 0;
+}

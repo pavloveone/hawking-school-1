@@ -1,0 +1,9 @@
+.info {
+    margin-top: 41px;
+    margin-bottom: 81px;
+    display: flex;
+    height: 48px;
+    align-items: center;
+    border-top: 1px solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
+}

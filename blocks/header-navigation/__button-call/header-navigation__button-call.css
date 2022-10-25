@@ -1,0 +1,14 @@
+.header-navigation__button-call {
+    width: 156px;
+    height: 19px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #AE2236;
+    border: none;
+    background-color: #FFFFFF;
+    border-bottom: #AE2236 1px dashed;
+    padding: 0;
+}

@@ -1,0 +1,7 @@
+.video-container__iframe {
+    position: absolute;
+    left: 130px;
+    top: 0;
+    width: 70%;
+    height: 100%;
+}

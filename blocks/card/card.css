@@ -1,0 +1,7 @@
+.card {
+    padding-right: 29px
+}
+
+.card:last-child {
+    padding: 0;
+}

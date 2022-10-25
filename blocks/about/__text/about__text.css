@@ -1,0 +1,12 @@
+.about__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+.about__text:last-child {
+    padding-bottom: 0;
+}

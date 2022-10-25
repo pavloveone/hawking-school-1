@@ -1,0 +1,12 @@
+.communication__form {
+    width: 866px;
+    height: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.15);
+    padding-left: 60px;
+    margin: 0 auto;
+}

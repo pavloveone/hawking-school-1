@@ -1,0 +1,7 @@
+.steps-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    list-style-type: none;
+    grid-auto-flow: dense;
+    padding: 0;
+}

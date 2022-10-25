@@ -1,0 +1,4 @@
+.footer-container__working-hours {
+    display: flex;
+    flex-direction: column;
+}
